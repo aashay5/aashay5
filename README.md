@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aashay
-- 👀 I’m interested in application development
+- 👋 Hi, I’m Aashay Chaturvedi
+- 👀 I’m interested in android application development
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on chromium
 - 📫 How to reach me aashaychaturvedi1@gmail.com
