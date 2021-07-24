@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aashay Chaturvedi
 - 👀 I’m interested in android application development
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on chromium
+- 🌱 I’m currently learning react native
+- 💞️ I’m looking to collaborate with myself
 - 📫 How to reach me aashaychaturvedi1@gmail.com
 
 <!---
